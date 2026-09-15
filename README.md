@@ -217,7 +217,7 @@ sc delete название_из_первого_шага
 
 ## ⚖️Лицензирование
 
-Проект распространяется на условиях лицензии [MIT](https://github.com/NetworkKiwiFurnish/zapret-discord-youtube/blob/main/LICENSE.txt)
+Проект распространяется на условиях лицензии [MIT](https://github.com/bol-van/zapret-discord-youtube/blob/main/LICENSE.txt)
 
 ## 🩷Благодарность участникам проекта
 
